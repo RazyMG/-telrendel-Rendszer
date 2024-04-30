@@ -1,0 +1,25 @@
+0 Hamburger # Most mar hangyak nelkul # 1000 0 1 0 Etel
+0 Burrito # Finomabb # 1500 1 1 0 Etel
+1 JunkFoodSpecial # Umm # 2200 2 1 0 
+0
+1
+-1
+0 Hasabkrumpli # kozepes # 500 3 1 0 Etel
+1 DuplaBuri # Ket hambi # 1850 5 1 0 
+0
+0
+-1
+1 TriplaBuri # Harom hambi # 2800 6 1 0 
+0
+0
+0
+-1
+0 Fagyi # Jeges # 400 0 1 1 Desszert
+0 Bananhajo # Csak eros akaratuaknak # 1200 1 1 1 Desszert
+1 Diabetesz # Cukros nagyon # 3000 2 1 1 
+0
+1
+-1
+0 CsokisSmoothie # Csokis # 1200 4 1 1 Desszert
+0 BobaTea # Boba # 880 5 1 1 Ital
+-99

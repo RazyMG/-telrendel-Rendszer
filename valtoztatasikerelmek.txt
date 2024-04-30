@@ -1,0 +1,4 @@
+0 0 Frissites 0 Hamburger # Most mar hangyak nelkul! # 1000 1 Etel 2022 12 5 18 20
+1 1 Torles 2022 12 5 18 22
+1 1 Hozzaadas 0 BobaTea # Szivoszalat kulon kell kerni # 750 1 Ital 2022 12 7 22 35
+-99

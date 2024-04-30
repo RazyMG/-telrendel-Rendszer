@@ -1,0 +1,7 @@
+admin 2 0 admin@gmail.com
+dolgozo 0 1 dolgozo@citromail.hu 1 0
+vasarlo 1 2 nagypeter@gmail.com
+futar 3 3 kissannamaria@gmail.com 0
+sanyi 0 4 sanyika@gmail.com 0 0
+marika 0 5 marika@gmail.com 1 1
+*
